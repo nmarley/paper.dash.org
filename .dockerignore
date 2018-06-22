@@ -2,3 +2,4 @@ CHANGELOG.txt
 Dockerfile
 README
 .dockerignore
+node_modules
